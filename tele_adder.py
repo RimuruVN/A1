@@ -9,7 +9,7 @@ import time, os, sys, json
 
 wt = (
     '''
-   https://t.me/paidvideo4u_wala                                               
+   THÊM THÀNH VIÊN VÀO NHÓM TELEGRAM                                          
   
     '''
 )
